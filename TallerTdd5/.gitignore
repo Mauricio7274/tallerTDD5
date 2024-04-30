@@ -1,0 +1,14 @@
+# Carpeta target
+/target/
+
+# Archivos generados por Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos generados por IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.log
